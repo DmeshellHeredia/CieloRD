@@ -58,15 +58,24 @@ identidad, launcher e icono y temas Día/Noche/Astrónomo. El búfer `crash` de
 logcat permaneció vacío. Al finalizar se restauraron Wi-Fi, datos móviles y
 tema Noche.
 
-## Publicación y pendientes
+## Publicación pública
 
-La publicación GitHub está autorizada para este cierre pero todavía debe
-completarse y verificarse. Después se actualizarán aquí las URL públicas.
+- Repositorio: <https://github.com/DmeshellHeredia/CieloRD>
+- Commit inicial: `8cdef94` — `Initial release of CieloRD 1.0`.
+- Tag/Release: <https://github.com/DmeshellHeredia/CieloRD/releases/tag/v1.0.0>
+- APK: <https://github.com/DmeshellHeredia/CieloRD/releases/download/v1.0.0/CieloRD_2024-0063_v1.0.apk>
+
+El repositorio es público, `main` es la rama predeterminada y la Release no es
+borrador ni prerelease. Repositorio, README y Release respondieron HTTP 200 sin
+credenciales; la descarga directa respondió HTTP 206 a una solicitud de rango.
+El API público confirmó nombre, tamaño y digest exactos del APK.
+
+## Pendientes
 
 Quedan pendientes solo las comprobaciones que requieren teléfono físico:
 cámara/galería, audio audible y límite real, GPS real y permisos, biometría,
 TalkBack, selectores de documentos, falta de espacio, interrupciones,
 round-trip y Borrar Todo con reinicio real. No se generan todavía QR ni PDF.
 
-**Recomendación:** listo técnicamente para publicación y entrega; la evidencia
+**Recomendación:** listo para descargar y para preparar QR/PDF. La evidencia
 física debe completarse antes de la presentación académica definitiva.

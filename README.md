@@ -72,8 +72,14 @@ Puerta final del 24–25 de noviembre de 2026:
 - Firma: `apksigner` aprobado, esquema v2, un firmante RSA de 2048 bits.
 - Nombre de entrega: `CieloRD_2024-0063_v1.0.apk`.
 
-El APK no se versiona dentro del repositorio; se distribuye mediante la
-GitHub Release `v1.0.0` una vez publicada.
+El APK no se versiona dentro del repositorio. Distribución pública:
+
+- [Repositorio](https://github.com/DmeshellHeredia/CieloRD)
+- [GitHub Release CieloRD 1.0](https://github.com/DmeshellHeredia/CieloRD/releases/tag/v1.0.0)
+- [Descarga directa del APK](https://github.com/DmeshellHeredia/CieloRD/releases/download/v1.0.0/CieloRD_2024-0063_v1.0.apk)
+
+Las tres rutas se comprobaron sin autenticación; el asset público reporta el
+mismo tamaño y digest SHA-256 que el candidato local.
 
 ## QA Android
 

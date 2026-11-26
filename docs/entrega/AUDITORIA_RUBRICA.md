@@ -41,8 +41,8 @@ teléfono físico.
 | Firma release | Cumple; v2, RSA 2048, un firmante. |
 | Nombre, matrícula, foto y frase | Cumple. |
 | Icono con matrícula | Cumple. |
-| README final | Cumple localmente; validar render público tras push. |
-| Repositorio/Release/enlace directo | En publicación; actualizar tras verificación pública. |
+| README final | Cumple; publicado y accesible sin autenticación. |
+| Repositorio/Release/enlace directo | Cumple; repo público, Release `v1.0.0` y APK verificados. |
 | QR y PDF | Deliberadamente no generados todavía. |
 | QA teléfono físico | Pendiente según checklist específico. |
 
@@ -63,4 +63,5 @@ teléfono físico.
 
 No se detecta un requisito funcional obligatorio ausente. El único trabajo de
 validación restante depende de hardware físico y no bloquea la integridad del
-APK firmado. QR y PDF dependen de una URL pública real y verificada.
+APK firmado. La URL pública real ya está verificada; QR y PDF no se generan en
+este cierre por instrucción expresa.

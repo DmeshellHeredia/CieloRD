@@ -22,3 +22,9 @@ resiembra automática; el usuario puede crear un perfil nuevo desde Editar
 perfil.
 
 APK final: `CieloRD_2024-0063_v1.0.apk`.
+
+## Publicación resuelta
+
+- Repositorio: <https://github.com/DmeshellHeredia/CieloRD>
+- Release: <https://github.com/DmeshellHeredia/CieloRD/releases/tag/v1.0.0>
+- APK directo: <https://github.com/DmeshellHeredia/CieloRD/releases/download/v1.0.0/CieloRD_2024-0063_v1.0.apk>

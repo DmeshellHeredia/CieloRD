@@ -15,5 +15,10 @@ APK final local:
 SHA-256:
 `1F77A0762E133141E1A51BD13179FBC89E453847A46A8404A55BEB9CDA1E339B`.
 
-Este directorio no contiene secretos, keystores, contraseñas, QR ni PDF. Las
-URL públicas se documentan solo después de comprobar la GitHub Release.
+Repositorio público: <https://github.com/DmeshellHeredia/CieloRD>
+
+Release: <https://github.com/DmeshellHeredia/CieloRD/releases/tag/v1.0.0>
+
+APK directo: <https://github.com/DmeshellHeredia/CieloRD/releases/download/v1.0.0/CieloRD_2024-0063_v1.0.apk>
+
+Este directorio no contiene secretos, keystores, contraseñas, QR ni PDF.

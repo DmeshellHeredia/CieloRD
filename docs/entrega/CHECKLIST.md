@@ -28,11 +28,11 @@
 
 ## Publicación
 
-- [ ] Repositorio público GitHub creado y verificado.
-- [ ] Rama `main` publicada sin secretos.
-- [ ] GitHub Release `v1.0.0` creada.
-- [ ] APK final adjunto y descarga pública verificada.
-- [ ] README público renderizado correctamente.
+- [x] Repositorio público GitHub creado y verificado.
+- [x] Rama `main` publicada sin secretos.
+- [x] GitHub Release `v1.0.0` creada.
+- [x] APK final adjunto y descarga pública verificada sin autenticación.
+- [x] README público disponible y renderizado correctamente.
 
 ## Teléfono físico
 
@@ -41,4 +41,5 @@ Pendiente únicamente la matriz documentada en
 biometría, TalkBack, selectores externos, falta de espacio, interrupciones,
 round-trip completo y Borrar Todo con reinicio real.
 
-No generar QR ni PDF hasta verificar la URL pública directa del APK.
+La URL directa ya está verificada. QR y PDF permanecen deliberadamente fuera
+de este cierre hasta una solicitud posterior.

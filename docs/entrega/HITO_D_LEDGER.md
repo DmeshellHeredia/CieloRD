@@ -23,5 +23,6 @@ Fecha final: 25-11-2026.
 - QA final: instalación limpia offline, identidad/Acerca de, mapa, launcher,
   temas, reapertura y crash buffer aprobados; red y Noche restaurados.
 
-La publicación GitHub se registra en `ESTADO.md` cuando exista y pueda
-verificarse públicamente. QR y PDF permanecen fuera de este cierre.
+Publicación completada en `DmeshellHeredia/CieloRD`: commit inicial `8cdef94`,
+tag/Release `v1.0.0` y APK final. Las rutas públicas y la descarga de rango se
+verificaron sin autenticación. QR y PDF permanecen fuera de este cierre.
